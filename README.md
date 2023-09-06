@@ -9,6 +9,8 @@ Start Date : 24 August 2023
 
 ## Contents
 
+- <b>Day 1</b> - [Working with Variables in Python to Manage Data](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%201)
+
 - <b>Day 11</b> - [Blackjack Capstone Project](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2011%20-%20Blackjack)
 
 <h5 align="center">
