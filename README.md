@@ -22,7 +22,7 @@ Start Date : 24 August 2023
 
 - <b>Day 6</b> - [Python Functions & Karel](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%206)
 
-- <b>Day 7</b> - [Hangman](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%207)
+- <b>Day 7</b> - [Hangman](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%207%20-%20Hangman)
 
 - <b>Day 8</b> - [Function Parameters & Caesar Cipher](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%208)
 
