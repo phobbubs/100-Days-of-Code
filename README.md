@@ -24,7 +24,7 @@ Start Date : 24 August 2023
 
 - <b>Day 7</b> - [Hangman](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%207%20-%20Hangman)
 
-- <b>Day 8</b> - [Function Parameters & Caesar Cipher](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%208)
+- <b>Day 8</b> - [Function Parameters & Caesar Cipher](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%208%20-%20Caesar%20Cipher)
 
 - <b>Day 9</b> - [Dictionaries, Nesting and the Secret Auction](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%209)
 
