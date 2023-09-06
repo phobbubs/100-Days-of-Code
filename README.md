@@ -18,6 +18,18 @@ Start Date : 24 August 2023
 
 - <b>Day 4</b> - [Randomisation and Python Lists](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%204)
 
+- <b>Day 5</b> - [Python Loops](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%205)
+
+- <b>Day 6</b> - [Python Functions & Karel](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%206)
+
+- <b>Day 7</b> - [Hangman](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%207)
+
+- <b>Day 8</b> - [Function Parameters & Caesar Cipher](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%208)
+
+- <b>Day 9</b> - [Dictionaries, Nesting and the Secret Auction](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%209)
+
+- <b>Day 10</b> - [Functions with Outputs](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2010)
+
 - <b>Day 11</b> - [Blackjack Capstone Project](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2011%20-%20Blackjack)
 
 <h5 align="center">
