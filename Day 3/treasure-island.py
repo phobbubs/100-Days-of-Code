@@ -29,18 +29,18 @@ print("Your mission is to find the treasure.")
 direction = (input("You are at a crossroad, which direction do you want to go? \"Left\" or \"Right\"?\n ")).lower()
 
 if direction == "left":
-  river_cross = (input("You have come to a lake. There is an island in the middle of the lake. Do you want to \"swim\" across or \"wait\" for the boat?\n")).lower()
-  if river_cross == "wait":
-    door = (input("You have arrived on the island. There is a house with 3 doors, which door do you want to enter? \"Red\", \"Blue\" or \"Yellow\"?\n"))
-    if door == "red":
-      print("You got burnt by fire.\nGame Over.")
-    elif door == "blue":
-      print("You got eaten by beasts.\nGame Over.")
-    elif door == "yellow":
-      print("You found the treasure, safe and sound. You Win!")
+    river_cross = (input("You have come to a lake. There is an island in the middle of the lake. Do you want to \"swim\" across or \"wait\" for the boat?\n")).lower()
+    if river_cross == "wait":
+        door = (input("You have arrived on the island. There is a house with 3 doors, which door do you want to enter? \"Red\", \"Blue\" or \"Yellow\"?\n"))
+        if door == "red":
+            print("You got burnt by fire.\nGame Over.")
+        elif door == "blue":
+            print("You got eaten by beasts.\nGame Over.")
+        elif door == "yellow":
+            print("You found the treasure, safe and sound. You Win!")
+        else:
+            print("Game Over.")
     else:
-      print("Game Over.")
-  else:
-    print("You got attacked by an angry trout.\nGame Over.")
+        print("You got attacked by an angry trout.\nGame Over.")
 else:
-  print("You fell into an infinitely deep hole.\nGame Over.")
+    print("You fell into an infinitely deep hole.\nGame Over.")
