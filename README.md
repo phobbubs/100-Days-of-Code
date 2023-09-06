@@ -26,7 +26,7 @@ Start Date : 24 August 2023
 
 - <b>Day 8</b> - [Function Parameters & Caesar Cipher](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%208%20-%20Caesar%20Cipher)
 
-- <b>Day 9</b> - [Dictionaries, Nesting and the Secret Auction](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%209)
+- <b>Day 9</b> - [Dictionaries, Nesting and the Secret Auction](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%209%20-%20Secret%20Auction)
 
 - <b>Day 10</b> - [Functions with Outputs](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2010)
 
