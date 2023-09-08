@@ -33,6 +33,8 @@ Start Date : 24 August 2023
 - <b>Day 11</b> - [Blackjack Capstone Project](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2011%20-%20Blackjack)
 
 - <b>Day 12</b> - [Scope & Number Guessing Game](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2012)
+  
+- <b>Day 13</b> - [Debugging: How to Find and Fix Errors in your Code](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2013)
 
 <h5 align="center">
 Last Updated : 8 September 2023
