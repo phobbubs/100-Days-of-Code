@@ -1,7 +1,7 @@
 from art import logo
 from art import vs
 from game_data import data
-from replit import clear
+from sys import clear
 import random
 
 print(logo)
@@ -30,7 +30,7 @@ while game_end == False:
     choice_b = random.choice(data)
     print(f"Compare B: {choice_b['name']}, a {choice_b['description']}, from {choice_b['country']}")
 
-    user_choice = input("Who has more followers? Type 'A' or 'B': ")
+    user_choice = input("Who has more followers? Type 'A' or 'B': ").lower()
     new_user_score = check_score()
     if new_user_score == user_score:
         game_end = True
