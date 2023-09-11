@@ -1,7 +1,7 @@
 from art import logo
 from art import vs
 from game_data import data
-from sys import clear
+from sys import exit
 import random
 
 print(logo)
@@ -34,11 +34,11 @@ while game_end == False:
     new_user_score = check_score()
     if new_user_score == user_score:
         game_end = True
-        clear()
+        exit()
         print(logo)
         print(f"Sorry, that's wrong. Final score: {user_score}")
     else:
-        clear()
+        exit()
         print(logo)
         user_score = new_user_score
         print(f"You're right! Current score: {user_score}")
