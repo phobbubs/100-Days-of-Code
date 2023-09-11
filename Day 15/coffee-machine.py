@@ -39,6 +39,7 @@ while machine_on:
     user_choice = input("What would you like? (espresso/latte/cappuccino): ")
 
     def check_resources():
+        """Check if there are enough resources"""
         if MENU[user_choice]["ingredients"]["water"] > resources["water"]:
             return "Sorry there is not enough water"
         elif MENU[user_choice]["ingredients"]["milk"] > resources["milk"]:
@@ -49,6 +50,7 @@ while machine_on:
             return "Please insert coins."
 
     def count_coins():
+        """Calculate total amount of coins inserted"""
         quarters = int(input("how many quarters?: "))
         dimes = int(input("how many dimes?: "))
         nickles = int(input("how many nickles?: "))
@@ -57,6 +59,7 @@ while machine_on:
         return total_coins
 
     def check_transaction(total_coins, drink_cost, resources_money):
+        """Check if enough money was paid for the drink"""
         if total_coins >= drink_cost:
             change = total_coins - drink_cost
             resources_money += drink_cost
@@ -66,6 +69,7 @@ while machine_on:
             return "Sorry that's not enough money. Money refunded."
 
     def deduct_resources(drink):
+        """Deduct amount of ingredients used from resources"""
         resources["water"] = resources["water"] - MENU[drink]["ingredients"]["water"]
         resources["milk"] = resources["milk"] - MENU[drink]["ingredients"]["milk"]
         resources["coffee"] = resources["coffee"] - MENU[drink]["ingredients"]["coffee"]
