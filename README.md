@@ -22,20 +22,22 @@ Start Date : 24 August 2023
 
 - <b>Day 6</b> - [Python Functions & Karel](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%206)
 
-- <b>Day 7</b> - [Hangman](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%207%20-%20Hangman)
+- <b>Day 7</b> - [Hangman](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%207)
 
-- <b>Day 8</b> - [Function Parameters & Caesar Cipher](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%208%20-%20Caesar%20Cipher)
+- <b>Day 8</b> - [Function Parameters & Caesar Cipher](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%208)
 
-- <b>Day 9</b> - [Dictionaries, Nesting and the Secret Auction](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%209%20-%20Secret%20Auction)
+- <b>Day 9</b> - [Dictionaries, Nesting and the Secret Auction](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%209)
 
 - <b>Day 10</b> - [Functions with Outputs](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2010)
 
-- <b>Day 11</b> - [Blackjack Capstone Project](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2011%20-%20Blackjack)
+- <b>Day 11</b> - [Blackjack Capstone Project](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2011)
 
 - <b>Day 12</b> - [Scope & Number Guessing Game](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2012)
   
 - <b>Day 13</b> - [Debugging: How to Find and Fix Errors in your Code](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2013)
 
+- <b>Day 14</b> - [Higher Lower Game Project](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2014)
+
 <h5 align="center">
-Last Updated : 8 September 2023
+Last Updated : 11 September 2023
 </h5>
