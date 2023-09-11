@@ -10,6 +10,7 @@ Start Date : 24 August 2023
 
 ## Contents
 
+<b>Beginner</b>
 - <b>Day 1</b> - [Working with Variables in Python to Manage Data](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%201)
 
 - <b>Day 2</b> - [Understanding Data Types and How to Manipulate Strings](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%202)
@@ -37,6 +38,9 @@ Start Date : 24 August 2023
 - <b>Day 13</b> - [Debugging: How to Find and Fix Errors in your Code](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2013)
 
 - <b>Day 14</b> - [Higher Lower Game Project](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2014)
+
+<b>Intermediate</b>
+- <b>Day 15</b> - [Local Development Environment Setup & the Coffee Machine](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2015)
 
 <h5 align="center">
 Last Updated : 11 September 2023
