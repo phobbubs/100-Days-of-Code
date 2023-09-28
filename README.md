@@ -46,6 +46,8 @@ Start Date : 24 August 2023
 
 - <b>Day 16</b> - [Object Oriented Programming (OOP)](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2016)
 
+- <b>Day 17</b> - [The Quiz Project & the Benefits of OOP](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2017)
+
 <h5 align="center">
-Last Updated : 12 September 2023
+Last Updated : 28 September 2023
 </h5>
