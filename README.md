@@ -48,6 +48,8 @@ Start Date : 24 August 2023
 
 - <b>Day 17</b> - [The Quiz Project & the Benefits of OOP](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2017)
 
+- <b>Day 18</b> - [Turtle & the Graphical User Interface (GUI)](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2018)
+
 <h5 align="center">
-Last Updated : 28 September 2023
+Last Updated : 29 September 2023
 </h5>
