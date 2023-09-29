@@ -52,6 +52,8 @@ Start Date : 24 August 2023
   
 - <b>Day 19</b> - [Instances, State and Higher Order Functions](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2019)
 
+- <b>Day 20</b> - [Build the Snake Game Part 1: Animation & Coordinates](https://github.com/phobbubs/100-Days-of-Code/tree/main/Day%2020)
+
 <h5 align="center">
 Last Updated : 29 September 2023
 </h5>
